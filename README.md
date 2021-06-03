@@ -1,9 +1,11 @@
-### Hi there 👋, Amine Tissilguit
-#### Design & Coding
+# Hi there 👋
 
 I'm Amine from Morocco, and I am a sharp c developer. I like to write code, I like to dig into problems and solve them. I also enjoy ui, ux, and design in general.
 
-Skills: C#/ JS / HTML / CSS
+## Skills and Experience
+* 💻 HTML, CSS, JS
+* 🎮 C#
+
 
 - 🔭 I’m currently working on a website for sharing images 
 - 🌱 I’m currently learning Entity Framework Core, ASP.NET Core Razor Pages. 
