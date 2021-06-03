@@ -4,13 +4,13 @@ I'm Amine from Morocco, and I am a sharp c developer. I like to write code, I li
 
 ## Skills and Experience
 * 🎮 C#
-* 💻 HTML, CSS, JS
+* 💻 HTML
 
 
 Here are some idea to get you started:
 
 - 🔭 I’m currently working ... on a website 
-- 🌱 I’m currently learning Entity Framework Core, ASP.NET Core Razor Pages
+- 🌱 I’m currently learning Entity Framework Core, ASP.NET Core Razor Pages, CSS
 - 👯 I’m looking to collaborate on ... ASP.NET CORE 
 - 📫 How to reach me: [my linkedin](https://www.linkedin.com/in/aminetissilguit/)
 
