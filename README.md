@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Amine from Morocco, and I am a sharp c developer. I like to write code, I like to dig into problems and solve them. I also enjoy ui, ux, and design in general.
+I'm Amine from Morocco, and I am a c sharp developer. I like to write code, I like to dig into problems and solve them. I also enjoy ui, ux, and design in general.
 
 ## Skills and Experience
 * 🎮 C#
