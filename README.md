@@ -1,5 +1,5 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Amine Tissilguit
-A newbie c sharp developer. I like to write code, I like to dig into problems and solve them. I also enjoy ui, ux, and design in general.
+A newbie c sharp/dotnet developer. I like to write code, I like to dig into problems and solve them. I also enjoy ui, ux, and design in general.
 
 :mailbox: Reach me out!
 
@@ -17,14 +17,10 @@ A newbie c sharp developer. I like to write code, I like to dig into problems an
 Here are some idea to get you started:
 
 - 🔭 I’m currently working ... on a website 
-- 🌱 I’m currently learning Entity Framework Core, ASP.NET Core Razor Pages, CSS
-- 🤔 I’m looking for internship
+- 🌱 I’m currently learning Entity Framework Core, ASP.NET Core MVC, CSS , Git/GitHub
+- 🤔 I’m an intern 
 
 
 
 #### My Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminetissilguit)](https://github.com/anuraghazra/github-readme-stats)  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminetissilguit)](https://github.com/anuraghazra/github-readme-stats)
-
-#### Repositories Visits
-
-- `imageshare` repository: &nbsp;&nbsp;&nbsp;![Visits Badge](https://badges.pufler.dev/visits/younes-erraji/imageshare)
