@@ -23,4 +23,4 @@ Here are some idea to get you started:
 
 
 #### My Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminetissilguit)](https://github.com/anuraghazra/github-readme-stats)  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminetissilguit)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineTissilguit)](https://github.com/anuraghazra/github-readme-stats)  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmineTissilguit)](https://github.com/anuraghazra/github-readme-stats)
