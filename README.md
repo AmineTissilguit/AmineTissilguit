@@ -19,8 +19,3 @@ Here are some idea to get you started:
 - 🔭 I’m currently working ... on a website 
 - 🌱 I’m currently learning Entity Framework Core, ASP.NET Core MVC, CSS , Git/GitHub
 - 🤔 I’m an intern 
-
-
-
-#### My Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineTissilguit)](https://github.com/anuraghazra/github-readme-stats)  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmineTissilguit)](https://github.com/anuraghazra/github-readme-stats)
