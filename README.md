@@ -1,5 +1,5 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Amine Tissilguit
-A c sharp/dotnet developer. I like to write code, I like to dig into problems and solve them. I also enjoy ui, ux, and design in general.
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
+I'm a c sharp/dotnet developer. I like to write code, I like to dig into problems and solve them. I also enjoy ui, ux, and design in general.
 
 :mailbox: Reach me out!
 
