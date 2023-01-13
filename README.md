@@ -17,12 +17,3 @@ I'm a c sharp/dotnet developer. I like to write code, I like to dig into problem
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="ms sql server logo" width="50px" height="50px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git logo" width="50px" height="50px"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma logo" width="50px" height="50px"/>
-
-
-
-
-
-Here are some idea to get you started:
-
-- 🔭 I’m currently working ... on a website 
-- 🌱 I’m currently learning Entity Framework Core, ASP.NET Core MVC, CSS , Git/GitHub
